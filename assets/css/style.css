@@ -1,3 +1,142 @@
-*{
-    margin: 0px;
-}
+.container{
+    background-color:rgb(117, 115, 115);
+   max-width: 20vw;
+   max-height: 100vw; 
+   height: 90vh;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-bottom: 100px;
+  }
+  .dash{
+    display: flex;
+    background-color:rgb(117, 115, 115);
+    /* width: 70%; */
+    margin-left: 110px;
+    margin-top: 40px;
+    margin-bottom:0px;
+    
+  } 
+  
+  .bing{
+   
+    padding-left: 1450px;
+  }
+  .button{
+    padding-left: 1350px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+  }
+  .board{
+   
+    /* padding-right: 500px; */
+    width: 101vw;
+    line-height: 26%; 
+    background-color: aquamarine;
+    /* width: 800px; */
+    height: 20vh;
+    padding-left: 20px;
+  }
+  .main{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(245, 249, 13);
+  }
+  .box1{
+    margin-left: 20px;
+   
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    background-color: burlywood;
+    border-radius: 15px;
+    border-left:10px solid blueviolet;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .ajay{
+    padding-top: 20px;
+  }
+  .main1{
+    display: flex;
+    max-width: 900px;
+  }
+   #announce{
+  
+  display: inline;
+  padding-left: 700px;
+  
+    
+   }
+   #project{
+  display: inline;
+  
+   }
+  .main2{
+    display: flex;
+    max-width: 900px;
+    flex-direction: column;
+    margin-right: 200px;
+  
+  }
+  .mai{
+    display: flex;
+    /* flex-direction: column; */
+  }
+  #people{
+   padding-left: 10px;
+  }
+  .box2{
+    margin-left: 20px;
+   margin-right: 390px;
+    padding-left: 10px;
+   
+    padding-bottom: 20px;
+    background-color: rgb(127, 36, 115);
+    border-radius: 15px;
+    border-left:5px solid rgb(6, 6, 6);
+    margin-bottom: 2px;
+    margin-top: 20px;
+  }
+  .box3{
+    background-color: rgb(245, 125, 12);
+    padding-left: 10px;
+    border-radius: 15px;
+    border-left:5px solid rgb(6, 6, 6);
+    margin-right: 390px;
+    margin-left: 20px;
+    padding-bottom: 133px;
+    display: flex;
+   flex-direction: column;
+   height: 98px;
+  }
+  /* #image{
+    border-radius: 80%;
+    margin-top: 10px;
+   
+  }
+  #hard{
+    padding-left: 78px;
+    
+  
+  } */
+  #image1{
+    border-radius: 80%;
+    margin-top: 10px;
+  }
+  #image3{
+    border-radius: 80%;
+    margin-top: 10px;
+  }
+  .har{
+    display: flex;
+  }
+  .j{
+    border-radius: 20px;
+  }
