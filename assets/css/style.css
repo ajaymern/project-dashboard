@@ -38,15 +38,15 @@
     /* padding-right: 500px; */
     width: 101vw;
     line-height: 26%; 
-    background-color: aquamarine;
+    background-color: burlywood; 
     /* width: 800px; */
-    height: 20vh;
+    height: 22vh;
     padding-left: 20px;
   }
   .main{
     display: flex;
     flex-direction: column;
-    background-color: rgb(245, 249, 13);
+    background-color: rgb(7, 176, 243);
   }
   .box1{
     margin-left: 20px;
@@ -98,14 +98,14 @@
     padding-left: 10px;
    
     padding-bottom: 20px;
-    background-color: rgb(127, 36, 115);
+    background-color: burlywood;
     border-radius: 15px;
     border-left:5px solid rgb(6, 6, 6);
     margin-bottom: 2px;
     margin-top: 20px;
   }
   .box3{
-    background-color: rgb(245, 125, 12);
+    background-color: burlywood;
     padding-left: 10px;
     border-radius: 15px;
     border-left:5px solid rgb(6, 6, 6);
@@ -139,4 +139,13 @@
   }
   .j{
     border-radius: 20px;
+    padding: 10px;
   }
+  #search{
+    border-radius: 20px;
+    width: 700px;
+    padding-top: 15px;
+    margin-top: 20px;
+  
+  }
+  
